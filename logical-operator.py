@@ -1,7 +1,7 @@
 
 """
 this program is logical operator using
-python language
+python language .
 """
 age = int(input("enter age : "))
 
