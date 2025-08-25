@@ -10,6 +10,6 @@ j=1
 for i in range(table,(table*10+1),table):
     print(f" {table} x {j} = {i}")
     j=j+1
-
+    
 
   
