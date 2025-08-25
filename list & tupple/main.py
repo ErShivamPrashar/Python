@@ -6,8 +6,11 @@ name1 = name.copy()
 # name1.insert(3,38)
 # name1.pop(0)
 # name1.remove(3)
+name1.reverse()
 print(name)
 print(name1)
+print(tuple(name1))
+print(set(name1))
 
 '''
 this is the array mehod
